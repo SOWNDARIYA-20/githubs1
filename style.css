@@ -1,4 +1,6 @@
-
+body{
+	overscroll-behavior: none;
+}
 nav{
 	display:flex;
 	width:90%;
